@@ -7,7 +7,7 @@ export default function Navbar() {
       <div className="max-h-[450px]: max-h-[450px]: m-auto flex h-full w-full flex-row items-center justify-around px-[5px] sm:justify-between sm:px-[10px]">
         <a href="/" className="flex h-auto w-auto flex-row items-center">
           <Image
-            src="/Navlogo.png"
+            src="/NavLogo.png"
             alt="Logo"
             width={70}
             height={70}
